@@ -6,3 +6,9 @@ First fork and clone the repo. Make sure you have ```node js```. Then, choose a 
 ```
 node <file_name>
 ```
+
+## Learning Resources
+
+- [100 JavaScript concepts you need to know](https://www.youtube.com/watch?v=lkIFF4maKMU)
+- [JavaScript in 100 seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
+- [JavaScript roadmap](https://roadmap.sh/javascript)
